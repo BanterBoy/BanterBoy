@@ -15,6 +15,9 @@ Particular favourites of mine are:
 
 Hopefully, you will find something of interest.
 
+⚡ Fun fact: I have a shipping container in my garden, which I use as my home office.
+[Feel free to take a look inside the man cave](https://blog.lukeleigh.com/Container-refurb-v6.0/)
+
 <!--
 **BanterBoy/BanterBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

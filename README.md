@@ -2,7 +2,7 @@
 
 I am Luke Leigh and I have been working in various Information Technology roles for approx the last 25 years. The roles I have worked in have changed almost as frequently as the technology. Starting at the bottom building and installing workstations and servers; to the latest working as a PCI Infrastructure Engineer. I have had some fancy titles and some very drab ones, however, working in IT building, installing and maintaining a PCI Compliant environment has been the most interesting.
 
-During the time it has for infrastructure to move to the cloud and environments to be able to expand on demand, it has become increasingly more important for those needing to build/support/maintain these environments to learn PowerShell.
+During the time it has taken for infrastructure to move to the cloud and environments to be able to expand on demand, it has become increasingly more important for those needing to build/support/maintain these environments to learn PowerShell.
 
 Having made the almost required transition to "part-developer", I have created and collected a number of scripts, functions and modules that I have shared in various repositories.
 

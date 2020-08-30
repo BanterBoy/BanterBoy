@@ -10,8 +10,14 @@ You can find out more on my [blog](https://blog.lukeleigh.com/) - yes, every IT 
 
 Particular favourites of mine are:
 
-* [PSCiscoMeraki](https://psciscomeraki.lukeleigh.com/)
-* [adminToolkit](https://admintoolkit.lukeleigh.com/)
+### [PSCiscoMeraki](https://psciscomeraki.lukeleigh.com/)
+ [![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/PSCiscoMeraki?label=PSCiscoMeraki&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/PSCiscoMeraki)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSCiscoMeraki?style=plastic)](https://www.powershellgallery.com/packages/PSCiscoMeraki)
+
+### [PSCovid19Stats](https://blog.lukeleigh.com/blog/powershell/PSCovid19Stats/)
+
+[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/PSCovid19Stats?label=PSCovid19Stats&logo=powershell&style=plastic)](https://www.powershellgallery.com/packages/PSCovid19Stats)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSCovid19Stats?style=plastic)](https://www.powershellgallery.com/packages/PSCovid19Stats)
 
 Hopefully, you will find something of interest.
 

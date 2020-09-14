@@ -1,3 +1,6 @@
+<a href="https://blog.lukeleigh.com/"><img src="https://img.shields.io/badge/Blog-blog.lukeleigh.com-2A6496.svg"></a>
+<a href="https://www.linkedin.com/in/lukeleigh"><img src="https://img.shields.io/badge/LinkedIn-lukeleigh-0077B5.svg?logo=LinkedIn"></a>
+
 ### Hi there 👋
 
 I am Luke Leigh and I have been working in various Information Technology roles for approx the last 25 years. The roles I have worked in have changed almost as frequently as the technology. Starting at the bottom building and installing workstations and servers; to the latest working as a PCI Infrastructure Engineer. I have had some fancy titles and some very drab ones, however, working in IT building, installing and maintaining a PCI Compliant environment has been the most interesting.
@@ -44,6 +47,5 @@ Here are some ideas to get you started:
 [mergify]: https://mergify.io
 [mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BanterBoy/BanterBoy&style=flat
 
-<a href="https://blog.lukeleigh.com/"><img src="https://img.shields.io/badge/Blog-blog.lukeleigh.com-2A6496.svg"></a>
-<a href="https://www.linkedin.com/in/lukeleigh"><img src="https://img.shields.io/badge/LinkedIn-lukeleigh-0077B5.svg?logo=LinkedIn"></a>
+
 

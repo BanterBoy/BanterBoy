@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 [mergify]: https://mergify.io
 [mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BanterBoy/BanterBoy&style=flat
 
-
-
+---
+[![BanterBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanterBoy)](https://github.com/BanterBoy/github-readme-stats)

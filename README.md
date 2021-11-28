@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 [mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BanterBoy/BanterBoy&style=flat
 
 ---
-
 ![](https://github.com/BanterBoy/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/BanterBoy/github-stats/blob/master/generated/languages.svg)
 

@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 [![Mergify Status][mergify-status]][mergify]
 
 [mergify]: https://mergify.io
-[mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/BanterBoy/BanterBoy&style=flat
-
+[mergify-status]: https://img.shields.io/endpoint.svg?url=https://img.shields.io/badge/mergify-GitHubProfile-blue
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics

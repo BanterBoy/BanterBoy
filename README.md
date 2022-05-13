@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mergify Status][mergify-status]][mergify]
-
-[mergify]: https://mergify.io
-[mergify-status]: https://img.shields.io/endpoint.svg?url=https://img.shields.io/badge/mergify-GitHubProfile-blue
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://github.com/BanterBoy/ "GitHub Profile page")
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics

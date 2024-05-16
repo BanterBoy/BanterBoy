@@ -1,5 +1,6 @@
 <a href="https://blog.lukeleigh.com/"><img src="https://img.shields.io/badge/Blog-blog.lukeleigh.com-2A6496.svg"></a>
 <a href="https://www.linkedin.com/in/lukeleigh"><img src="https://img.shields.io/badge/LinkedIn-lukeleigh-0077B5.svg?logo=LinkedIn"></a>
+![](https://komarev.com/ghpvc/?username=BanterBoy)
 
 ### Hi there 👋
 
@@ -57,5 +58,3 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=BanterBoy&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
   </a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BanterBoy)

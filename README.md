@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=600150)
 <a href="https://blog.lukeleigh.com/"><img src="https://img.shields.io/badge/Blog-blog.lukeleigh.com-2A6496.svg"></a>
 <a href="https://www.linkedin.com/in/lukeleigh"><img src="https://img.shields.io/badge/LinkedIn-lukeleigh-0077B5.svg?logo=LinkedIn"></a>
 ![](https://komarev.com/ghpvc/?username=BanterBoy)
